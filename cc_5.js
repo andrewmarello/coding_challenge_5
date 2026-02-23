@@ -4,8 +4,8 @@ console.log(`Coding Challenge 5 - Payroll Processing Toolkit: Automating Repetit
 const employee = [
     {name: "Clayton", hourlyRate: 20, hoursWorked: 40},
     {name: "Johnny", hourlyRate: 15, hoursWorked: 35},
-    {name: "Mason", hourlyRate: 25, hoursWorked: 30},
-    {name: "Nicolas", hourlyRate: 18, hoursWorked: 45},
+    {name: "Mason", hourlyRate: 25, hoursWorked: 20},
+    {name: "Nicolas", hourlyRate: 18, hoursWorked: 30},
 ];
 
 // Step 3: Write a function calculateBasePay(rate, hours) that returns pay for up to 40 hours
