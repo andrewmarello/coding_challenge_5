@@ -1,4 +1,4 @@
-console.log(`Coding Challenge 5 - Payroll Processing Toolkit: Automating Repetitive Calculations - Andrew Marello`);
+console.log(`Coding Challenge 05 - Andrew Marello`);
 
 //Step 2: Create an array of 3-5 employee objects
 const employee = [
